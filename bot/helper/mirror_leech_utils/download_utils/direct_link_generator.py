@@ -181,6 +181,7 @@ def direct_link_generator(link):
         for x in [
             "linkbox.to",
             "lbx.to",
+            "lbx.zone",
             "teltobx.net",
             "telbx.net",
         ]
